@@ -21,7 +21,7 @@ This is the backend API for the School Management System. It handles authenticat
 - **superadmin**:
   - Full access (manage staff & students)
 - **staff**:
-  - Limited access (view/update students only)
+  - Limited access (access given by super admin)
 
 ---
 
